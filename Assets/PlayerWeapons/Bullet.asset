@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b6519180fc072942b84550634a7ed62, type: 3}
+  m_Name: Bullet
+  m_EditorClassIdentifier: 
+  prodjectile: {fileID: -4455771415471138852, guid: 261f2b603b58d9443b96ab82e300f519, type: 3}
+  ammoUpgrade: {fileID: 11400000, guid: 91020b78860d16c4fa086d373ca0fe94, type: 2}
+  damageUpgrade: {fileID: 11400000, guid: 9c8e85b3e341613459000ba6c68524ab, type: 2}
+  weaponSprite: {fileID: 6879118450950661895, guid: f3b36734c3f45684da45210c26cebaca, type: 3}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8264f77cfbbec48bfb0f0610d71b0a, type: 3}
+  m_Name: BulletAmmo
+  m_EditorClassIdentifier: 
+  prices: 0a000000c8000000e803000088130000204e0000
+  values: 0a000000230000005000000082000000f4010000

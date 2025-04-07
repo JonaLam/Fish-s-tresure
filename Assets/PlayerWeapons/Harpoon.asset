@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b6519180fc072942b84550634a7ed62, type: 3}
+  m_Name: Harpoon
+  m_EditorClassIdentifier: 
+  prodjectile: {fileID: 6699860125785291107, guid: ea9140722bda0824fb78a4daae6346df, type: 3}
+  ammoUpgrade: {fileID: 11400000, guid: 8dd7c3fe207b6e44bb81794217a0f052, type: 2}
+  damageUpgrade: {fileID: 11400000, guid: 2e8a87a1819f315488cf03b7c3e377d3, type: 2}
+  weaponSprite: {fileID: 826349381306066784, guid: b5c325e28fe086749be754ab040b4f35, type: 3}
