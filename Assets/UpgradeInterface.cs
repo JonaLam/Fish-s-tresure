@@ -75,7 +75,7 @@ public class UpgradeInterface : MonoBehaviour
             if (i < GameManager.instance.GetUpgradeLevel(upgrade))
                 imageInstance.color = Color.green;
 
-            pos += Vector2.right * 13;
+            pos += Vector2.right * 0.015f * Screen.width;
         }
     }
 }

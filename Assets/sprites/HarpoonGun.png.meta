@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HarpoonGun_0: 826349381306066784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
